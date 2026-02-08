@@ -1,5 +1,5 @@
 
-¡Hola, soy @dosmarke y actualmente estoy aprendiendo a programar. Mi objetivo es desarrollar proyectos interesantes y mejorar mis habilidades.
+Hola, soy @dosmarke y actualmente estoy aprendiendo a programar. Mi objetivo es desarrollar proyectos interesantes y mejorar mis habilidades.
 
 ---
 
